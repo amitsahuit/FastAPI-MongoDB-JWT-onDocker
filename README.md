@@ -1,13 +1,11 @@
 # User authentication using FastAPI (a python frameworks), MongoDB (for database), Docker Compose (for deployment)
 ## How to start the application
-**Watch the video:** (below the video are the commands on how to start the application)
-* https://www.youtube.com/watch?v=Bw5rQXgvHYc
 
 **The commands:**
 
 First you have to git clone the files by entering in your terminal:
 ```
-$ git clone https://github.com/AtamanKit/fastapi_users_docker.git
+$ git clone https://github.com/amitsahuit/FastAPI-MongoDB-JWT-onDocker.git
 ```  
 Then start the application:
 ```
